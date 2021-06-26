@@ -15,7 +15,7 @@ GitHub pages方式使用（其实就是启用github pages...）
 3. 找到 Setting  > Pages  >  Source; 将选项None切换为其它分支；然后 Save就ok了。
 4. dns没有配置好的接下来按提示改；
 
-vercel.com （对国内优化更友好，不容器被屏蔽；）
+vercel.com （对国内优化更友好，不容易被屏蔽；）
 
 1. 右上角 fork；
 2. 进入  https://vercel.com/ 网站中 使用GitHub登录；
